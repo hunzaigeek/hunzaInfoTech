@@ -421,7 +421,7 @@ body {
 }
 .navbar .navbar-header .navbar-brand {
     width: 140px;
-    padding: 15px 0;
+    padding: 0 0;
     min-height: 20px;
     height: auto;
 }
