@@ -3747,7 +3747,8 @@ ul.packages li i{
 }
 
 
-
+.tp-mask-wrap .tp-caption{
+}
 @media only screen and (max-width: 450px) {
 
     .button_div a.btn1{
@@ -3770,3 +3771,8 @@ ul.packages li i{
 }
 
 
+/* modal-header */
+.modal-header{
+    border: none;
+    padding: 25px 15px 15px 15px;
+}
